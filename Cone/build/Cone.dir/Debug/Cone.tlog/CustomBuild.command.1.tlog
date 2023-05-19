@@ -1,0 +1,10 @@
+^C:\USERS\HAIKA\ONEDRIVE\DOCUMENTS\VTK-PROJECT\TUTORIAL\CONE\CONE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/haika/OneDrive/Documents/VTK-Project/Tutorial/Cone/Cone -BC:/Users/haika/OneDrive/Documents/VTK-Project/Tutorial/Cone/Cone/build --check-stamp-file C:/Users/haika/OneDrive/Documents/VTK-Project/Tutorial/Cone/Cone/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
