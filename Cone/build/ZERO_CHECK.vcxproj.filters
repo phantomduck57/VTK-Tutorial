@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\haika\OneDrive\Documents\VTK-Project\Tutorial\Cone\Cone\build\CMakeFiles\d2cf30667fd4f9df68d20559baa19b6a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{811439D1-2289-358A-BD3F-784ADF5E2F41}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
