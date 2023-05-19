@@ -1,0 +1,10 @@
+^C:\USERS\HAIKA\ONEDRIVE\DOCUMENTS\VTK-PROJECT\TUTORIAL\CONE\CONE\BUILD\CMAKEFILES\D2CF30667FD4F9DF68D20559BAA19B6A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/haika/OneDrive/Documents/VTK-Project/Tutorial/Cone/Cone -BC:/Users/haika/OneDrive/Documents/VTK-Project/Tutorial/Cone/Cone/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/haika/OneDrive/Documents/VTK-Project/Tutorial/Cone/Cone/build/Cone.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
