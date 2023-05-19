@@ -1,0 +1,3 @@
+C:/Users/haika/OneDrive/Documents/VTK-Project/Tutorial/Cone/Cone/build/CMakeFiles/Cone.dir
+C:/Users/haika/OneDrive/Documents/VTK-Project/Tutorial/Cone/Cone/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/haika/OneDrive/Documents/VTK-Project/Tutorial/Cone/Cone/build/CMakeFiles/ZERO_CHECK.dir
